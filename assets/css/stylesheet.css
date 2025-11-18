@@ -291,3 +291,12 @@ body {
 .trainer-portrait {
     max-width: 350px;
 }
+
+.trainer.hero-section h2 {
+    font-size: 2.5rem;
+}
+
+.trainer-section h5 {
+    margin-top: 10px;
+    opacity: 0.9;
+}
