@@ -282,3 +282,8 @@ body {
   object-fit: cover;
   object-position: center;
 }
+
+.trainer-section {
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
