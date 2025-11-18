@@ -290,7 +290,8 @@ body {
 }
 
 .trainer-portrait {
-    max-width: 350px;
+    max-width: 330px;
+    border-radius: 12px;
 }
 
 .trainer.hero-section h2 {
