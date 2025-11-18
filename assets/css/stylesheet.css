@@ -286,6 +286,7 @@ body {
 .trainer-section {
     padding-top: 80px;
     padding-bottom: 80px;
+    padding:100px 0;
 }
 
 .trainer-portrait {
@@ -300,3 +301,5 @@ body {
     margin-top: 10px;
     opacity: 0.9;
 }
+
+
