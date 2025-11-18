@@ -240,3 +240,8 @@ body {
         text-align: center;
     }
 }
+
+.trainer-banner-section {
+    margin-top: -35px;
+    padding-top: 0;
+}
