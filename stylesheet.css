@@ -1,0 +1,15 @@
+/* colour change to nav bar */
+.new-navbar {
+    background-color: #000;
+    padding: 8px 0;
+}
+
+.new-navbar .container {
+    max-width: 100%;
+}
+
+/* logo in navbar */
+.logo {
+    height: 26px;
+    width: auto;
+}
