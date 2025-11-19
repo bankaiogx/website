@@ -39,6 +39,16 @@ The project is also aimed at users who respond well to visual stimuli and charac
 
 Additionally, the website helps communicate the GYMXP concept to stakeholders and potential developers by clearly presenting the visuals, layout and key features of the idea.
 ## UX / UI Rationale
+The design of the GYMXP website is based on a user centric approach that focuses on clarity, visual engagement and simplicity. These three core aspects guided the project from the very beginning with the aim of providing users with a user friendly, engaging and easy to navigate experience. The layout across the entire website was intentionally kept clean, with strong spacing, clear headings and well-structured sections to ensure users can move through the site without confusion or information overload.
+
+Dark backgrounds combined with bright accents and coloured text were chosen to complement and match the energetic, anime inspired theme of the project. All of these visuals were implemented while still maintaining readability and accessibility. The use of large visuals, bold typography and subtle animated imagery reflects the core concept behind the website and the product itself, helping to emphasise personality and aesthetic identity.
+
+Each page of the website has been designed to highlight one idea at a time. For example, the AI Trainers page focuses on showcasing the three coaches, the Waiting List page provides a clear and simple form for users to register interest, and the About page uses a video supported by text to explain the core app concept. This approach was deliberately chosen to simplify navigation and prevent cognitive overload, allowing users to absorb information at their own pace. The flow of media and text avoids clutter and ensures the overall experience remains accessible and easy to use.
+
+The targeted demographic (ages 15–35) was also considered throughout the design process. Users in this age group typically prefer fast, visual and straightforward interfaces, so the structure, visuals and pacing of information delivery were designed to match these expectations. This design caters specifically to those users while still being friendly for others. Users also tend to skim through websites rather than fully read all the content, so the UX/UI was created with this behaviour in mind—keeping it simple yet aesthetically pleasing, with clear headers and sections laid out in a way that avoids clutter.
+
+The use of Bootstrap classes supported this by implementing the Bootstrap grid system to ensure a consistent and clean layout. It kept spacing and layout balanced across all pages and prevented elements from appearing unbalanced or shifted. The Bootstrap framework also allowed the website to scale appropriately on mobile, desktop and tablet without the need for extra code. Using Bootstrap allowed faster development without compromising on a high design standard. Ultimately, Bootstrap helped achieve a polished and aesthetic design that aligned with the core concepts of clarity, visual engagement and simplicity.
+
 
 ## Page Breakdown
 
