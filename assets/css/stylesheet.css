@@ -163,9 +163,17 @@ body {
     background-color: #000;
 }
 
-.avatar-img {
-    height: 520px;
+.avatar-img.blaze {
+    height: 560px;
     width: auto;
+}
+
+.avatar-img.zaya {
+    height: 600px;
+}
+
+.avatar-img.shadow {
+    height: 620px;
 }
 
 .avatars-section {
