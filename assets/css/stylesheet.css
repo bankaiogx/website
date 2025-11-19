@@ -313,3 +313,7 @@ body {
 .text-purple {
     color: #9b59b6 !important;
 }
+
+.social-links a {
+    color: white;
+}
