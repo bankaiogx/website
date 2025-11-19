@@ -3,7 +3,6 @@
 </p>
 
 # GYMXP — Gamified Fitness Web Application
-
 ## 📚 Table of Contents
 - [Overview](#overview)
 - [Purpose](#purpose)
