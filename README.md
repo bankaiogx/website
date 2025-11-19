@@ -22,7 +22,11 @@
 ---
 
 ## Overview
+GYMXP is a gamified fitness platform designed as a user-centered web application. It transforms traditional workouts into an engaging, interactive experience using XP progression, AI-powered virtual trainers, aura effects, achievements, and motivational behaviour-design principles.
 
+The project demonstrates strong UX/UI decision-making, accessibility-focused design, optimised front-end performance, and a structured development workflow. By merging fitness with game-style progression systems, GYMXP aims to increase user motivation, consistency, and long-term engagement through clear goals, instant feedback, and visual reward mechanics.
+
+Inspired by successful behaviour-driven apps like Duolingo, GYMXP targets a niche gap in the fitness market by combining gamification, AI, and gym-based training in a modern, aesthetically focused interface. The website showcases the app concept through cinematic visuals, interactive avatars, and clear feature explanations—providing users with a compelling preview of the full GYMXP experience.
 ## Purpose
 
 ## Target Audience
