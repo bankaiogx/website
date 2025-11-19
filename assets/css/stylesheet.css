@@ -37,6 +37,8 @@ body {
 .logo {
     height: 30px;
     width: auto;
+    aspect-ratio: 4 / 1;
+    object-fit: contain;
     margin-right: auto !important;
     margin-left: 15px !important;
 }
@@ -162,15 +164,21 @@ body {
 }
 
 .avatar-img.blaze {
+    aspect-ratio: 1 /2.35;
     width: 190px;
+    object-fit: contain;
 }
 
 .avatar-img.zaya {
+    aspect-ratio: 1 / 2.6;
     width: 170px;
+    object-fit: contain;
 }
 
 .avatar-img.shadow {
+    aspect-ratio: 1 / 2.6;
     width: 173px;
+    object-fit: contain;
 }
 
 .avatars-section {
