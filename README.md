@@ -18,6 +18,7 @@
 - [Deployment](#deployment)
 - [Future Improvements](#future-improvements)
 - [Screenshots](#screenshots)
+- [References](#references)
 
 ---
 
@@ -57,3 +58,5 @@ Inspired by successful behaviour-driven apps like Duolingo, GYMXP targets a nich
 ## Future Improvements
 
 ## Screenshots
+
+## References
