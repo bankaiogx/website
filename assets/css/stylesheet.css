@@ -321,4 +321,6 @@ body {
 
 .social-links a {
     color: white;
+    margin:  0 12px;
+    display: inline-block;
 }
