@@ -48,7 +48,20 @@ Each page of the website has been designed to highlight one idea at a time. For 
 The targeted demographic (ages 15–35) was also considered throughout the design process. Users in this age group typically prefer fast, visual and straightforward interfaces, so the structure, visuals and pacing of information delivery were designed to match these expectations. This design caters specifically to those users while still being friendly for others. Users also tend to skim through websites rather than fully read all the content, so the UX/UI was created with this behaviour in mind—keeping it simple yet aesthetically pleasing, with clear headers and sections laid out in a way that avoids clutter.
 
 The navigation bar was intentially kept clean and thin to provide more of an aesthetic and modern sleek look. This was placed at the top of each page as most websites improving usability. The GYMXP logo also doubles as a home button which follows best practice and improves flow for the user. On mobile screens, the navigation collapses into Bootstrap’s hamburger menu. This keeps the layout clean and prevents the navigation links from overcrowding the screen. By collapsing the links into a menu, it avoids clutter and allows the logo and design elements to remain visually balanced. This mobile adaptive behavior ensures the navigation is kept simple and easy to use.
-
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/readme/desktop-nav.png" width="80%">
+      <br>
+      <em>Desktop navigation bar</em>
+    </td>
+    <td align="center">
+      <img src="assets/readme/mobile-nav.jpg" width="80%">
+      <br>
+      <em>Mobile hamburger navigation bar</em>
+    </td>
+  </tr>
+</table>
 The use of Bootstrap classes supported this by implementing the Bootstrap grid system to ensure a consistent and clean layout. It kept spacing and layout balanced across all pages and prevented elements from appearing unbalanced or shifted. The Bootstrap framework also allowed the website to scale appropriately on mobile, desktop and tablet without the need for extra code. Using Bootstrap allowed faster development without compromising on a high design standard. Ultimately, Bootstrap helped achieve a polished and aesthetic design that aligned with the core concepts of clarity, visual engagement and simplicity.
 
 
