@@ -96,6 +96,8 @@ The use of Bootstrap classes supported this by implementing the Bootstrap grid s
   </tr>
 </table>
 
+The design implements three well known established UX laws to support clear interaction.Hicks Law was implemented as the the use of simple layouts and minimal options per page, which i have applied, reduces user decision time in theory. Fitts Law has also been applied through the use of large and easy to tap buttons and links especially with the hamburger menu on mobile devices. Lastly Cognitive Load was implemented through the strategical design of breaking information into smaller sections with spacing and a clear hierarchy, preventing cognotive overload. With all this, no UX rules were in violation and my design choice and features ensures a smooth user experience.
+
 ### Wireframe
 Below are wireframe diagrams used to guide the design and layout of the website.
 <td align="center">
