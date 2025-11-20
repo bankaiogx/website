@@ -91,7 +91,11 @@ body {
 
 .hero-text {
     max-width: 600px;
-    margin-top: -265px;
+    margin-top: -3px;
+}
+
+.hero-text .btn {
+    margin-top: 290px;
 }
 
 
