@@ -238,6 +238,8 @@ body {
   max-width: 360px;
   border-radius: 16px;
   box-shadow: 0 20px 60px rgba(0,0,0,0.6);
+  margin-left: 140px;
+  margin-bottom: -20px;
 }
 
 .footer-section {
