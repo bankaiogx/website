@@ -53,12 +53,12 @@ The targeted demographic (ages 15–35) was also considered throughout the desig
 <table>
   <tr>
     <td align="center">
-      <img src="assets/header.png/" width="80%" alt="screenshot of header <h1> on trainers page">
+      <img src="assets/readme/header.png/" width="80%" alt="screenshot of header <h1> on trainers page">
       <br>
       <em>Example of header</em>
     </td>
     <td align="center">
-      <img src="assets/readme/spacing.jpg" width="80%" alt="image showing spacing of <h> elements and <p> element.">
+      <img src="assets/readme/spacing.png" width="80%" alt="image showing spacing of <h> elements and <p> element.">
       <br>
       <em>Example of spacing between <H> and <p> elements</em>
     </td>
