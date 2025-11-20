@@ -125,6 +125,15 @@ body {
 .hero-section p, .badge {
     text-shadow: 0 2px 4px rgba(0,0,0,0.4);
     color: white;
+    font-weight: 500;
+}
+
+.hero-section p {
+    letter-spacing: 0.7px;
+    font-size: 20px;
+    line-height: 1.2;
+    opacity: 0.95;
+    max-width: 600px;
 }
 
 .hero-section .btn {
