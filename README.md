@@ -70,12 +70,12 @@ The use of Bootstrap classes supported this by implementing the Bootstrap grid s
 <table>
   <tr>
     <td align="center">
-      <img src="assets/readme/spacing-two.png" width="60%" alt="example of grid system for text">
+      <img src="assets/readme/spacing-two.png" width="80%" alt="example of grid system for text">
       <br>
       <em>Bootstrap grid system example for text</em>
     </td>
     <td align="center">
-      <img src="assets/readme/grid-example.png" width="60%" alt="example of grid system for images">
+      <img src="assets/readme/grid-example.png" width="70%" alt="example of grid system for images">
       <br>
       <em>Bootstrap grid system example for images </em>
     </td>
