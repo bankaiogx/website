@@ -95,7 +95,18 @@ The use of Bootstrap classes supported this by implementing the Bootstrap grid s
     </td>
   </tr>
 </table>
-
+### Wireframe
+Below are wireframe diagrams used to guide the design and layout of the website.
+<td align="center">
+      <img src="assets/readme/wireframe.png" width="80%" alt="wireframe for home and trainer page">
+      <br>
+      <em>Wireframe diagram for home and trainer page</em>
+    </td>
+    <td align="center">
+      <img src="assets/readme/Wireframe-2.png" width="80%" alt="wireframe for about and waitinglist page">
+      <br>
+      <em>Wireframe diagram for About and Contact/Waiting-list page</em>
+    </td>
 
 ## Page Breakdown
 
