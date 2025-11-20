@@ -95,6 +95,7 @@ The use of Bootstrap classes supported this by implementing the Bootstrap grid s
     </td>
   </tr>
 </table>
+
 ### Wireframe
 Below are wireframe diagrams used to guide the design and layout of the website.
 <td align="center">
