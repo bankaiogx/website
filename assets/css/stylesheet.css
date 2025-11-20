@@ -254,6 +254,13 @@ body {
     color:white
 }
 
+.about-hero h1 {
+    font-weight: 700;
+    letter-spacing: -1px;
+    font-size: 3rem;
+    color: #ffffff;
+}
+
  .about-hero-video {
     width: 100%;
     max-width: 900px;
