@@ -113,9 +113,24 @@ Below are wireframe diagrams used to guide the design and layout of the website.
        <em>Wireframe diagram for About and Waiting List pages</em>
      </td>
   </table>
+
 ## Page Breakdown
 
 ### Home Page
+The Home Page serves its purpose as the landing page and main introduction to the GYMXP Concept. It is designed to communicate the core idea of the platform. The hero section of the home page features a cinematic fullscreen background taking up the width of the page, with a bold headliner, subheader and a charcter animation to the right. The background image has had a fade applied to it from the bottom so it blends in well with the complimenting black background. This dynamic design was intended to set the visual identity and tone for the rest of the project.
+
+The structure of text was intentionally designed to allow visitors to understand the purpose of the app quickly. The brand message ("Transform your workout into XP") is reinforced visually through the use of strong and bold typography and text underneath. Two buttons ('Register Interest' and 'LEARN MORE') are positioned directly below the hero text with sufficient spacing to maintain clarity. This spacing creates a more balanced, aesthetic layout and prevents the text and buttons from appearing cluttered, while still allowing the background image to remain clearly visible and unobstructed. The buttons also follow Fitts’s Law by using high-contrast colours, large tap-friendly sizing and clear labelling to improve usability and accessibility.
+
+Below the her section, three key features are displayed in bootstrap three column layout ('Track your XP', 'Unlock Achievments', Level Up On Your Training'). This design uses minimal text, clear spacing and short and concise desciptions to prevent cognotive overload, helping the visitor to quickly understand the three core aspects of the product. Each feature follows a consistent design, spacing, maintaining readability across various different screen sizes.
+
+A preview of the three AI trainers is included below the features section. This Avatar section introduces three familiar faces users will see across the site - Blaze, Zaya and Shadow. These are the main characters of the app/product. This section is intended to highlight the personality driven aspect of the GYMXP concept. The layout, once again borrowed from Bootstrap, centres the avatars visually and uses spacing thus helping the section feel connected and consistent with the rest of the page and grid system.
+
+To enhance user experience, the Home page makes the subtle use of  UI enhancements such as fade-in animations on text, images and videos as well as smooth hover interactions on the AI avatar previews. This includes  a zoom in effect as well as a character attributed glow to each avatar image to highlight and support the visual and character driven aesthetic of the GYMXP concept.
+
+The Home Page layout adopted the use of Bootstrap's responsive grid system, allowing it smoothly adapt to different screen dimensions. For example, the hero section's two column layout transforms to a single column on mobile and this ensures the hero text and video remain readable. The three column features section as well as the AI avatar previews stack on top of each other on mobile devices, preventing clutter and maintaining readability and clarity. Utilities such as img-fluid, mx-auto and text-md-start were used to maintain spacing and alignment that is consistent no matter the device.
+
+Accessibility was implemented in the design of the Home Page through the use of Alt text on images, ARIA labels on the navigation bar and the use of high contrast buttons that meet expected readability standards. Buttons use high contrast and large sizing to support both mouse and touch input.
+
 ### About Page
 ### AI Trainers Page
 ### Waiting List Page
