@@ -53,7 +53,7 @@ The use of Bootstrap classes supported this by implementing the Bootstrap grid s
 <p align="center">
   <img src="assets/readme/anime-graphic.png" width="60%" alt="example of banner in the AI trainers page to showcase visual and anime inspired identity ">
 </p>
-
+Visual in AI Trainers page showcasing the visual and anime inspired brand identity and how it it fits with the theme of the page and navigation.
 
 ## Page Breakdown
 
