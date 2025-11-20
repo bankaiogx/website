@@ -50,6 +50,20 @@ Dark backgrounds combined with bright accents and coloured text were chosen to c
 Each page of the website has been designed to highlight one idea at a time. For example, the AI Trainers page focuses on showcasing the three coaches, the Waiting List page provides a clear and simple form for users to register interest, and the About page uses a video supported by text to explain the core app concept. This approach was deliberately chosen to simplify navigation and prevent cognitive overload, allowing users to absorb information at their own pace. The flow of media and text avoids clutter and ensures the overall experience remains accessible and easy to use.
 
 The targeted demographic (ages 15–35) was also considered throughout the design process. Users in this age group typically prefer fast, visual and straightforward interfaces, so the structure, visuals and pacing of information delivery were designed to match these expectations. This design caters specifically to those users while still being friendly for others. Users also tend to skim through websites rather than fully read all the content, so the UX/UI was created with this behaviour in mind—keeping it simple yet aesthetically pleasing, with clear headers and sections laid out in a way that avoids clutter.
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/header.png/" width="80%" alt="screenshot of header <h1> on trainers page">
+      <br>
+      <em>Example of header</em>
+    </td>
+    <td align="center">
+      <img src="assets/readme/spacing.jpg" width="80%" alt="image showing spacing of <h> elements and <p> element.">
+      <br>
+      <em>Example of spacing between <H> and <p> elements</em>
+    </td>
+  </tr>
+</table>
 
 The navigation bar was intentially kept clean and thin to provide more of an aesthetic and modern sleek look. This was placed at the top of each page as most websites improving usability. The GYMXP logo also doubles as a home button which follows best practice and improves flow for the user. On mobile screens, the navigation collapses into Bootstrap’s hamburger menu. This keeps the layout clean and prevents the navigation links from overcrowding the screen. By collapsing the links into a menu, it avoids clutter and allows the logo and design elements to remain visually balanced. This mobile adaptive behavior ensures the navigation is kept simple and easy to use.
 <table>
