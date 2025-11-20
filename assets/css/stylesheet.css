@@ -89,6 +89,12 @@ body {
     z-index: 2;
 }
 
+.hero-text {
+    max-width: 600px;
+}
+
+
+
 /*dark overlay*/
 .hero-section::before {
     content: "";
