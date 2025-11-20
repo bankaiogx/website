@@ -223,8 +223,8 @@ body {
 
 .hero-video {
   width: 100%;
-  max-width: 400px;
-  border-radius: 12px;
+  max-width: 360px;
+  border-radius: 16px;
 }
 
 .footer-section {
