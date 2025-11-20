@@ -50,6 +50,11 @@ The targeted demographic (ages 15–35) was also considered throughout the desig
 The use of Bootstrap classes supported this by implementing the Bootstrap grid system to ensure a consistent and clean layout. It kept spacing and layout balanced across all pages and prevented elements from appearing unbalanced or shifted. The Bootstrap framework also allowed the website to scale appropriately on mobile, desktop and tablet without the need for extra code. Using Bootstrap allowed faster development without compromising on a high design standard. Ultimately, Bootstrap helped achieve a polished and aesthetic design that aligned with the core concepts of clarity, visual engagement and simplicity.
 
 
+<p align="center">
+  <img src="assets/readme/anime-graphic.png" width="60%" alt="example of banner in the AI trainers page to showcase visual and anime inspired identity ">
+</p>
+
+
 ## Page Breakdown
 
 ### Home Page
