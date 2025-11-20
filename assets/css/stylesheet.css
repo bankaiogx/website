@@ -261,6 +261,12 @@ body {
     color: #ffffff;
 }
 
+.about-hero p.lead {
+    color: #cccccc;
+    font-size: 1.25rem;
+    margin-top: 10px;
+}
+
  .about-hero-video {
     width: 100%;
     max-width: 900px;
