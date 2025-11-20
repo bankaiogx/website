@@ -42,6 +42,10 @@ Additionally, the website helps communicate the GYMXP concept to stakeholders an
 The design of the GYMXP website is based on a user centric approach that focuses on clarity, visual engagement and simplicity. These three core aspects guided the project from the very beginning with the aim of providing users with a user friendly, engaging and easy to navigate experience. The layout across the entire website was intentionally kept clean, with strong spacing, clear headings and well-structured sections to ensure users can move through the site without confusion or information overload.
 
 Dark backgrounds combined with bright accents and coloured text were chosen to complement and match the energetic, anime inspired theme of the project. All of these visuals were implemented while still maintaining readability and accessibility. The use of large visuals, bold typography and subtle animated imagery reflects the core concept behind the website and the product itself, helping to emphasise personality and aesthetic identity.
+<p align="center">
+  <img src="assets/readme/anime-graphic.png" width="40%" alt="example of banner in the AI trainers page to showcase visual and anime inspired identity ">
+</p>
+<p align="center"><em>Visual in AI Trainers page showcasing the visual and anime inspired brand identity and how it it fits with the theme of the page and navigation.</em></p>
 
 Each page of the website has been designed to highlight one idea at a time. For example, the AI Trainers page focuses on showcasing the three coaches, the Waiting List page provides a clear and simple form for users to register interest, and the About page uses a video supported by text to explain the core app concept. This approach was deliberately chosen to simplify navigation and prevent cognitive overload, allowing users to absorb information at their own pace. The flow of media and text avoids clutter and ensures the overall experience remains accessible and easy to use.
 
@@ -65,10 +69,6 @@ The navigation bar was intentially kept clean and thin to provide more of an aes
 The use of Bootstrap classes supported this by implementing the Bootstrap grid system to ensure a consistent and clean layout. It kept spacing and layout balanced across all pages and prevented elements from appearing unbalanced or shifted. The Bootstrap framework also allowed the website to scale appropriately on mobile, desktop and tablet without the need for extra code. Using Bootstrap allowed faster development without compromising on a high design standard. Ultimately, Bootstrap helped achieve a polished and aesthetic design that aligned with the core concepts of clarity, visual engagement and simplicity.
 
 
-<p align="center">
-  <img src="assets/readme/anime-graphic.png" width="60%" alt="example of banner in the AI trainers page to showcase visual and anime inspired identity ">
-</p>
-<p align="center"><em>Visual in AI Trainers page showcasing the visual and anime inspired brand identity and how it it fits with the theme of the page and navigation.</em></p>
 
 ## Page Breakdown
 
