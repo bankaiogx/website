@@ -55,19 +55,32 @@ The navigation bar was intentially kept clean and thin to provide more of an aes
 <table>
   <tr>
     <td align="center">
-      <img src="assets/readme/desktop-nav.png" width="80%">
+      <img src="assets/readme/desktop-nav.png" width="80%" alt="image of desktop navigation">
       <br>
       <em>Desktop navigation bar</em>
     </td>
     <td align="center">
-      <img src="assets/readme/mobile-nav.jpg" width="80%">
+      <img src="assets/readme/mobile-nav.jpg" width="80%" alt="image of mobile hamburger navigation">
       <br>
       <em>Mobile hamburger navigation bar</em>
     </td>
   </tr>
 </table>
 The use of Bootstrap classes supported this by implementing the Bootstrap grid system to ensure a consistent and clean layout. It kept spacing and layout balanced across all pages and prevented elements from appearing unbalanced or shifted. The Bootstrap framework also allowed the website to scale appropriately on mobile, desktop and tablet without the need for extra code. Using Bootstrap allowed faster development without compromising on a high design standard. Ultimately, Bootstrap helped achieve a polished and aesthetic design that aligned with the core concepts of clarity, visual engagement and simplicity.
-
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/readme/spacing-two.png" width="60%" alt="example of grid system for text">
+      <br>
+      <em>Bootstrap grid system example for text</em>
+    </td>
+    <td align="center">
+      <img src="assets/readme/grid-example.png" width="60%" alt="example of grid system for images">
+      <br>
+      <em>Bootstrap grid system example for images </em>
+    </td>
+  </tr>
+</table>
 
 
 ## Page Breakdown
