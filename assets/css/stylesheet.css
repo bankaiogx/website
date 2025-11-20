@@ -75,7 +75,7 @@ body {
 }
 
 .hero-section {
-    background: url("../images/hero-section-gym.jpg") no-repeat center center/cover;
+    background: url("../images/homepage-visual.webp) no-repeat center center/cover;
     padding-top: 80px;
     position: relative;
 }
