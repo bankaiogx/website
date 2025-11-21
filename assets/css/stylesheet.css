@@ -286,12 +286,13 @@ body {
         font-size: 18px;
         text-align: center;
     }
-
     .hero-video {
-        margin-left: 0 !important;
-        max-width: 100% !important;
-        width: 100% !important;
-    }
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    max-width: 100% !important;
+    width: 100% !important;
+    display: block !important;
+}
 
     .hero-text .btn {
         margin-top: 40px !important;
