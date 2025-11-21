@@ -285,6 +285,10 @@ body {
         font-size: 18px;
         text-align: center;
     }
+    .hero-video {
+        margin-left: 0; !important;
+        max-width: 90%;
+    }
 }
 
 .trainer-banner-section {
