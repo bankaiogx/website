@@ -274,7 +274,87 @@ To deploy the project, I first ensured the repository was public then went into 
 
 Overall, GitHub Pages provided a straightforward means of deployment and made it easy to test the site on real devices throughout deployment. The final website is fully hosted by GitHub Pages and easily accessible.
 ## Future Improvements
+There are several improvements that could be made to enhance the website and support the full GYMXP concept:
 
+- **Add backend functionality** so the Waiting List form stores data in a real database instead of being static.  
+- **Introduce full character animations** for the AI trainers to improve engagement and match the app concept more closely.  
+- **Improve performance on mobile** mainly by further compressing videos or replacing them with lighter alternatives.  
+- **Add a dedicated accessibility mode**, such as larger text, reduced motion or high-contrast toggles.  
+- **Add micro-interactions**, such as hover sounds or subtle UI feedback or haptic feed back on mboikle, to enhance the gamified feel.  
+- **Create a full blog or update section** where development progress or previews could be shared with users.
+**Use of Javascript** More advanced use of JS to implment more advanced fade features such as images fade in and out dependant on user scrolling up and down the pages.
+
+These improvements would enhance both usability and the overall experience, bringing the site closer to what a full pre-launch product website would deliver.
 ## Screenshots
 
-## References 
+## References  
+
+**Visual Studio Code**
+Code editor used for HTML, CSS and project structure.
+https://code.visualstudio.com/
+
+**Bootstrap**  
+Bootstrap Grid system, Utilities, Navbar and spacing classes were all used throughout the projecf.
+https://getbootstrap.com  
+
+**Bootstrap JavaScript (Navbar Toggler Functionality)**  
+Hamburger navigation bar implemented for mobile devices.
+https://getbootstrap.com/docs/5.3/components/navbar/  
+
+**MDN Web Docs – CSS Animations & Transitions**   
+CSS inspiration for transitions and understanding fade-in behaviour
+https://developer.mozilla.org/en-US/docs/Web/CSS/animation  
+https://developer.mozilla.org/en-US/docs/Web/CSS/transition  
+
+**W3C Web Accessibility Guidelines**  
+https://www.w3.org/WAI/standards-guidelines/wcag/  
+
+**Google DevTools**
+Used for responsive testing, device simulation, debugging layout, and inspecting CSS.
+https://developer.chrome.com/docs/devtools/  
+
+**Google Lighthouse Performance & Accessibility Testing**  
+Used for checking performance, accessibility, SEO and best practices across mobile and desktop.
+https://developer.chrome.com/docs/lighthouse  
+
+**WebP Image Conversion Tool** 
+Used for conversion of png files to WebP to maximise web performance
+https://cloudconvert.com/webp-converter  
+
+**Git and GitHub** 
+Used for version control, repo management and deployment  
+https://github.com/
+
+**W3C HTML Validator**
+Used to validate HTML markup.
+https://validator.w3.org/  
+
+**W3C CSS Validator** 
+Used to validate CSS stylesheets.
+https://jigsaw.w3.org/css-validator/
+
+**Safari (macOS)** 
+sed to test Safari specific rendering issues such as glow behaviour.
+https://developer.apple.com/safari/tools/
+
+**Adobe Photoshop 2026** –
+used for image editing, resizing and WebP optomisation.
+https://www.adobe.com/products/photoshop.html
+
+
+ **AI-Assisted Assets**
+
+Some visual assets were created or enhanced using AI tools:
+
+- **Google Gemini** – used to generate enhanced poses and artistic variations of the AI trainers and the combined banner artwork.  ("aurabackground.webp", "homepage-visual.webp", "waitinglistgym.webp", "blaze-pose.webp", "shadow-pose.webp" and "zaya-pose.webp")
+  https://gemini.google.com
+
+- **HeyGen** – used to generate AI-powered character video animations for Blaze and Zaya found on index.html and about.html  ()
+  https://www.heygen.com
+
+  ## Media & Asset Attribution
+
+-  Character artwork and GYMXP logo ("blaze,webp", "zaya.webp", "shadow.webp" and "gymxp.png" ) was designed and customised by myself (Arbaz Danyal Butt), then optimised manually using Photoshop.
+- Banner and additional character poses were generated or enhanced using Google Gemini.
+- AI video were generated with HeyGen using my assets. ("blaze-portrait.mp4" and "zaya-video.mp4")
+- All images were exported to WebP for performance and manually resized to improve performance.
