@@ -187,6 +187,64 @@ A number of external resources were used in this project to implement layout str
 ## Testing
 
 ## Bugs and Fixes
+During development, several issues were identified through manual testing, Lighthouse checks,responsive checks using Chrome DevTools and deployment troubleshooting. Below are the key bugs encountered and how each one was resolved. 
+
+### **Bug 1 — Horizontal Scrolling on Mobile (Index Page)**
+**Issue:** The homepage could be swiped left and right on mobile screens.  
+**Cause:** An invalid CSS selector and incorrect video margins caused layout overflow.  
+**Fix:** Removed the invalid CSS, corrected hero video styles and added @media queries so the layout fits the viewport correctly.
+
+### **Bug 2 — Navbar Logo Misalignment (Desktop & Mobile)**
+**Issue:** The GYMXP logo appeared too high or too close to the edge.  
+**Cause:** Duplicate .container elements and conflicting margin and padding rules.  
+**Fix:** Removed duplicate containers and rewrote spacing rules to align the logo across all screen sizes.
+
+### **Bug 3 — Trainer Images Different Sizes**
+**Issue:** Blaze, Zaya and Shadow appeared uneven in size visually.  
+**Cause:** PNGs had inconsistent dimensions and aspect ratios.  
+**Fix:** edited images in Photoshop, resized them to be as close in ehight and re-exported them as WebP for optimisation and consistency.
+
+### **Bug 4 — Slow Loading Due to Large PNG Images**
+**Issue:** Lighthouse flagged large network payloads that slowed down performance.  
+**Cause:** Trainer PNG files were too large 
+**Fix:** Converted all character and banner images to WebP format, reducing file size significantly.
+
+### **Bug 5 — Hero Video Misaligned on Mobile**
+**Issue:** On small screens, the hero video overflowed and appeared pushed to the right.  
+**Cause:** Desktop margins were applied to mobile layouts.  
+**Fix:** Added a mobile media query to reset margins and force the video to full width using max-width property and set to 100%.
+
+### **Bug 6 — Image and Video Paths Broken After Deployment**
+**Issue:** Images and videos did not load on GitHub Pages.  
+**Cause:** Case-sensitive naming (e.g. Blaze.webp vs blaze.webp) and mismatched folder paths.  
+**Fix:** Standardised all filenames to lowercase and updated all HTML references.
+
+### **Bug 7 — Incorrect Heading Hierarchy (Accessibility)**
+**Issue:** Lighthouse reported errors where heading levels were not in logical order (e.g., h4 used before h2).  
+**Cause:** Headings were chosen for visual styling incorrectly.  
+**Fix:** Corrected heading structure across all pages while using Bootstrap classes to maintain visual styling.
+
+### **Bug 8 — Video Controls Not Clickable**
+**Issue:** Video controls appeared but did not respond to interaction.  
+**Cause:** The video was overlapped by other elements due to incorrect z-index and autoplay attributes.  
+**Fix:** Adjusted stacking context and removed conflicting attributes so controls function normally.
+
+### **Bug 9 — Social Icons Too Small to Tap on Mobile**
+**Issue:** Touch targets for social links were too small on the Waiting List page.  
+**Cause:** Links used default spacing with no padding nor styling in CSS  
+**Fix:** Increased padding, spacing and applied the .social-links class to meet tap-target guidelines.
+
+### **Bug 10 —  Safari Glow Revealing Avatar Edges**
+**Issue:** On Safari (macOS only), avatars with glow effects displayed visible hard edges or outlines around the character, revealing the original cut-out shape. This did not occur in Chrome or Edge.  
+**Cause:** Research on this suggests Safari's engine handles CSS glow effects different than Chromium browsers.
+**Fix:** No fix. Was unable to find a fix as it is a broswer specific issue due to their specific rendering limitations.
+
+### **Bug 11 —  GitHub Repository Corrupted (503 Error & Lost Git History)**
+**Issue:** Oe project suddenly stopped being recognised as a Git repository. VS Code reported that the folder no longer contained a .git directory, and GitHub returned errors such as 503: Internal Server Error and “fatal: Could not read from remote repository”, blocking all Git commits.  
+**Cause:**  Temporary GitHub outage caused failed authentication attempts.As a result, the project could no longer pull, push or fetch, and the remote repo became corrupted.
+**Fix:** After exhuasting all options including SSH keys and attempting to clone and force push, I created a new repoand repushed the full project. This restored version control and normal deployment behaviour however losing 130± commits (which are still viewable on the previous Git repo).
+
+
 
 ## Version Control
 
