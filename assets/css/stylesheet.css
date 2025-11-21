@@ -279,19 +279,23 @@ body {
     border: none;
 }
 
-@media (max-width: 768px) {
+@@media (max-width: 768px) {
     .nav-link {
         padding: 12px 0;
         font-size: 18px;
         text-align: center;
     }
+
     .hero-video {
-        margin-left: 0; !important;
-        max-width: 90%;
+        margin-left: 0 !important;
+        max-width: 100% !important;
+        width: 100% !important;
     }
+
     .hero-text .btn {
-        margin-top: 40px; !important;
+        margin-top: 40px !important;
     }
+
     .hero-section::after {
         height: 200px;
     }
