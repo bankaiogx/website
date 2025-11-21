@@ -179,7 +179,7 @@ The About page presents the concept of GYMXP in a way that is simple, visual and
       <em>About Desktop</em>
     </td>
     <td align="center">
-      <img src="assets/readme/screenshots/homepage/home-mobile.png/" width="80%" alt="Screenshot of mobile view about page">
+      <img src="assets/readme/screenshots/about/mobile-about.png/" width="80%" alt="Screenshot of mobile view about page">
       <br>
       <em>About Mobile</em>
     </td>
@@ -238,7 +238,7 @@ Overall, the Waiting List Page provides a straightforward and user-friendly expe
       <em>Waiting List Desktop</em>
     </td>
     <td align="center">
-      <img src="assets/readme/screenshots/homepage/home-mobile.png/" width="80%" alt="Screenshot of mobile view waiting list page">
+      <img src="assets/readme/screenshots/waiting/form-mobile.png/" width="80%" alt="Screenshot of mobile view waiting list page">
       <br>
       <em>Waiting List Mobile</em>
     </td>
