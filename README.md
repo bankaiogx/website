@@ -28,22 +28,26 @@
 ---
 
 ## Overview
+
 GYMXP is a gamified fitness platform designed as a user-centered web application. It transforms traditional workouts into an engaging, interactive experience using XP progression, AI-powered virtual trainers, aura effects, achievements, and motivational behaviour-design principles.
 
 The project demonstrates strong UX/UI decision-making, accessibility-focused design, optimised front-end performance, and a structured development workflow. By merging fitness with game-style progression systems, GYMXP aims to increase user motivation, consistency, and long-term engagement through clear goals, instant feedback, and visual reward mechanics.
 
 Inspired by successful behaviour-driven apps like Duolingo, GYMXP targets a niche gap in the ever growing fitness market aswell as utilising the gamification trend by combining core gamification elements, AI, and gym-based training in a modern, aesthetically focused interface. The website acts a pre-launch platform and showcases the app concept through cinematic visuals, interactive avatars, and clear feature explanations providing users with a compelling preview of the full GYMXP experience. This experience, in turn, has the real prospect to attract users and potential investors interested in bringing the product to the market.
 ## Purpose
+
 The purpose of this website is to clearly introduce the concept of GYMXP in a way that is simple, visual and easy for users to understand. The site acts as a gateway to information that showcases the key features of the concept, such as XP progression, the AI trainers (which are the key USP), and the overall design and theme of the app. Each page has been designed to visually engage visitors in a style similar to how professional companies and studios present their concepts. The images, videos and text have been arranged in a way that is easy for users to follow and understand without overwhelming them with too much information at once.
 
 From a development perspective, the website is designed to demonstrate my ability to build a responsive, accessible and user‑centred front‑end project. It highlights the use of clean HTML structure, optimised images for efficient performance, Bootstrap for layout, and a consistent visual UI that fits the vision of the project while meeting best practices and accessibility standards. The main purpose of this project, within the scope of development, is to showcase my ability to design and implement a fully responsive interface using HTML5, CSS and Bootstrap.
 ## Target Audience
+
 The target audience for this website are users who are interested in fitness, self‑improvement and gamified experiences. The typical age range for this demographic is between 15–35. The GYMXP website is mainly aimed at people who struggle with motivation, enjoy strong visuals and visual progress, and prefer more interactive and rewarding modes of training. This includes beginners who want structure, guidance and discipline, as well as more experienced gym users who want to track their progress in a more engaging way than traditional fitness apps currently offer.
 
 The project is also aimed at users who respond well to visual stimuli and character driven design. The three core AI coaches—Blaze, Zaya and Shadow appeal to users who enjoy personality, narrative and digital guidance. The XP system further supports this by mirroring the type of progress users are familiar with from gaming environments. The website presents all of this information in a clear, fun and visually engaging way, with the aim of encouraging users to join the ‘Waiting List’ for early access.
 
 Additionally, the website helps communicate the GYMXP concept to stakeholders and potential developers by clearly presenting the visuals, layout and key features of the idea.
 ## UX / UI Rationale
+
 The design of the GYMXP website is based on a user‑centric approach that focuses on clarity, visual engagement and simplicity. These three core aspects guided the project from the very beginning with the aim of providing users with a user‑friendly, engaging and easy‑to‑navigate experience. The layout across the entire website was intentionally kept clean, with strong spacing, clear headings and well-structured sections to ensure users can move through the site without confusion or information overload.
 
 Dark backgrounds combined with bright accents and coloured text were chosen to complement and match the energetic, anime‑inspired theme of the project. All of these visuals were implemented while still maintaining readability and accessibility. The use of large visuals, bold typography and subtle animated imagery reflects the core concept behind the website and the product itself, helping to emphasise personality and aesthetic identity.
@@ -104,6 +108,7 @@ The use of Bootstrap classes was chosen to handle majority of the spacing and la
 The design implements three well known established UX laws to support clear interaction.Hick’s Law was implemented as the the use of simple layouts and minimal options per page, which i have applied, reduces user decision time in theory. Fitts’s Law has also been applied through the use of large and easy to tap buttons and links especially with the hamburger menu on mobile devices. Lastly Cognitive Load was implemented through the strategic design of breaking information into smaller sections with spacing and a clear hierarchy, preventing cognitive overload. With all this, no UX rules were deliberately broken and my design choice and features ensures a smooth user experience.
 
 ### Wireframe
+
 Below are wireframe diagrams used to guide the design and layout of the website.
   <table> 
     <tr>
@@ -122,6 +127,7 @@ Below are wireframe diagrams used to guide the design and layout of the website.
 ## Page Breakdown
 
 ### Home Page
+
 The Home Page serves its purpose as the landing page and main introduction to the GYMXP Concept. It is designed to communicate the core idea of the platform. The hero section of the home page features a cinematic fullscreen background taking up the width of the page, with a bold headliner, subheader and a charcter animation to the right. The background image has had a fade applied to it from the bottom so it blends in well with the complimenting black background. This dynamic design was intended to set the visual identity and tone for the rest of the project.
 
 The structure of text was intentionally designed to allow visitors to understand the purpose of the app quickly. The brand message ("Transform your workout into XP") is reinforced visually through the use of strong and bold typography and text underneath. Two buttons ('Register Interest' and 'LEARN MORE') are positioned directly below the hero text with sufficient spacing to maintain clarity. This spacing creates a more balanced, aesthetic layout and prevents the text and buttons from appearing cluttered, while still allowing the background image to remain clearly visible and unobstructed. The buttons also follow Fitts’s Law by using high-contrast colours, large tap-friendly sizing and clear labelling to improve usability and accessibility.
@@ -137,6 +143,7 @@ The Home Page layout adopted the use of Bootstrap's responsive grid system, allo
 Accessibility was implemented in the design of the Home Page through the use of Alt text on images, ARIA labels on the navigation bar and the use of high contrast buttons that meet expected readability standards. Buttons use high contrast and large sizing to support both mouse and touch input.
 
 ### About Page
+
 The About page provides a clear explaination of the GYMXP concept using a simple and structured layout. The page opens with a bold header and a short description immediately introducing the the purpose of the app. Below this is an animated video of one of the AI trainers - Zaya and is placed centrally on the page. The design choice to include a video helps reinforce the brand identity and persoanlity driven concept of GYMXP whilst giving visitors a more of a dynamic and engaging means to understand key information.
 
 The layout utilisies Bootstrap's grid system to centre the video and text whilst maintain strong spacing in aim to avoid clutter. The decision to keep the page minimal was an intended choice to over cognotive overload and not distract the user from the key information within the video and supported text. Beneath the video, a short explanatory paragraph highlights the core aspects, such as XP progression, AI coaching and other features that the GYMXP concept has to offer.
@@ -149,6 +156,7 @@ The About page presents the concept of GYMXP in a way that is simple, visual and
 
 
 ### AI Trainers Page
+
 The AI Trainers Page is designed to introduce the three main AI virtual coaches of the GYMXP concept - Blaze, Zaya and Shadow. These three characters form the personality driven core of the concept and represent different training styles, visual identities and motivational tones. The page opens with a cinematic large banner featuring all three AI coaches together reinforcing the anime inspired brand identity as well as settting the undertone for the rest of the contents of the page.
 
 Each trainer is layed out in their own dedicated section through the use of a two column responsive Bootstrap grid. With the portrait image of each trainer being placed on one side whilst the short and descriptive text placed on the other, this aids to create a strong visual structure, ensuring users can clearly distinguish each character and gain a grasp of their unique roles within GYMXP. Consisten and clean spacing, readable typography and balanced image size, mirroring the other, avoid visual clutter and make the page easier to naturally scan for users.
@@ -161,6 +169,7 @@ Accessibility was considered thoughout this page. all images including Alt text,
 
 Overall the AI trainers page reinforces the persoanlity driven and visual identity of GYMXP, presenting each AI trainer in a focused manner whilst preserving a well structured layout that is simple for users to follow.
 ### Waiting List Page
+
 TThe Waiting List Page is designed to provide users with a simple and accessible way to register their interest in the GYMXP concept ahead of launch. This page implements a clean and focused layout, with the form placed on the left and a supporting visual banner on the right. This structure is once again achieved through the use of the Bootstrap two-column grid, keeping the page visually balanced while ensuring the form remains the primary focus.
 
 The form itself is intentionally kept minimal to avoid overwhelming the user. Only essential fields are included (Full Name and Email) to streamline the process and make it as easy to complete as possible. Clear labels, strong spacing and large input fields improve readability and ease of interaction for the user, especially on mobile devices. A large and high-contrast submit button supports accessibility and implements Fitts’s Law by making it easy to click or tap.
@@ -172,9 +181,32 @@ Subtle fade-in animations were once again applied to the form and the supporting
 Accessibility was also implemented thoroughly on this page. All fields include labels, colour contrast remains high, and form controls are large enough to be used comfortably on mobile devices. The page also includes Alt text for supporting visuals and maintains a logical heading structure consistent with the rest of the site.
 
 Overall, the Waiting List Page provides a straightforward and user-friendly experience with a focus on clarity and accessibility, allowing interested users to register their interest without unnecessary complexity or clutter.
+
 ## Accessibility Features
 
+Acessibility was an important focuc throughout the entire design and implementation of the project to ensure the design is useable and readable for everyone. s number of accessibility practices were put in place across all pages such as:
+- Alt text on all images.
+Ever image such as trainer portraits, banners logos and graphics included descriptive alt text so users with screen readers understand the visual content.
+- Logical heading structure
+Heading levels were corrected and structured correctly on all pages. this improved navigation for users who rely on screen reading technologies.
+- ARIA Labels on the Navigation bar
+The navigation bar used clear aria-label attributes, especially on hamburger mnu, to help users with assistive technology.
+- High contrast text
+The entire sites use a white-on-black colour cheme with high contrast buttons. This improves readability for all users, especialy those of low vision or colour blindness.
+- Large tap friendly buttons
+Buttons such as 'Register Interest' or 'Learn more' use large sizing, generous padding, high contrast that follows best practice inline with the principals derived from Fitt's Law.
+- Minimal cognitive load
+Information is seperated into small sections with strong spacing, clear headers and content that is structured well. This prevents users from feeling overwhelmed from information overload.
+- Muted audio on videos 
+Videos autoplay without sound and avoids sudden and unexpected audio for the user. This also follows good practice for accessibility.
+- Responsive layout
+The layout prevents horizontal scrolling and scales correctly on mobile and other devices.
+
+Overall, the GYMXP website applies a range of accessibility focused implementations, ensuring the interface is usable, readable and supportive for different users across devices and assistive technologies.
+
+
 ## Responsive Design
+
 Responsive design was a core aspect within the design of the GYMXP website to make sure it works smoothly across desktop, mobile and tablet devices. the layout was made keeping mobile in mind as well as well ask desktop using Bootstrap's responsive grid system as well as a few other CSS media queries.
 
 Bootstrap's grid system (container, row, cold-md) was used across all masin sections such as the hero sections, the three features, the AI trainer layout and the waiting list form. On larger screens, such as desktop or large tablets, these are displayed in multiple columns for example the hero text on the left and the media/image on the right whilst on mobile they stack vertically. This maintained readibility without magnifying/pinch to zoom or horizontal scrolling.
@@ -188,6 +220,7 @@ The navigation bar is fully responsive oo. On desktop the links are displayed on
 Responsive behaviour was tested using Chrome Devtools device emulation as well as testing directly on my own multiple devices and browsers. This confirmed that text is readable, images scaled correctly and buttons were eay to find and tap and there is no horizontal scrolling on any page. 
 
 ## External Code Attribution
+
 A number of external resources were used in this project to implement layout structure and interactive behaviour:
 
 - **Bootstrap 5.3** was used for the responsive grid system, spacing, navigation bar and overall page layout.  
@@ -197,8 +230,6 @@ A number of external resources were used in this project to implement layout str
 
 - **CSS animation** utilised for fade-in effects were inspired by common examples on **MDN Web Docs**.  
   Source: https://developer.mozilla.org
-
-
 
 ## Testing
 
@@ -261,6 +292,7 @@ During development, several issues were identified through manual testing, Light
 **Fix:** After exhuasting all options including SSH keys and attempting to clone and force push, I created a new repoand repushed the full project. This restored version control and normal deployment behaviour however losing 130± commits (which are still viewable on the previous Git repo).
 
 ## Version Control
+
 Version control was used throughout the development of this project to make and manage changes, track progress and maintain an organisedworkflow. Git and Github were used together, with VS Code as the  development enviroment. This allowed me to cmmit regularly and push updates to the repository.
 
 I followed a simple but effective workflow by writing a feature or fix a bug, test it locally and then commit with a clear message describing descibing the change. This helped maintain and keep the project and keep the project organised as well as making it easier to revert or adjust specific changes when necassary. Changes and updates were commited regularly when necassary and were especially helpful when debugging, for example issues related to layout since i could easily review what caused a change in behaviour.
@@ -273,12 +305,14 @@ Although this meant losing over 130 commits from the original repository the his
 
 Version control played an important role in this project not only for tracking changes but also for debugging and recovering from unexpected issues, demonstrating a professional approach to managing a real development workflow.
 ## Deployment
+
 The deployment wasn handled by Github using Pages. Github provides a free static hosting and automatically updates the live site whenever chages were commited and pushed to the main repository. 
 
 To deploy the project, I first ensured the repository was public then went into Github settings - Pages and selected the main branch as the source. After this, the site generated and was hosted on the Github URL. Any further updates were done simply by committing and pushing changes to GitHub which automatically updated redeployment.
 
 Overall, GitHub Pages provided a straightforward means of deployment and made it easy to test the site on real devices throughout deployment. The final website is fully hosted by GitHub Pages and easily accessible.
 ## Future Improvements
+
 There are several improvements that could be made to enhance the website and support the full GYMXP concept:
 
 - **Add backend functionality** so the Waiting List form stores data in a real database instead of being static.  
