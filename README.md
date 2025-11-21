@@ -147,7 +147,7 @@ Accessibility was implemented in the design of the Home Page through the use of 
 <table>
   <tr>
     <td align="center">
-      <img src="assets/readme/screenshots/homepage/homepage.png/" width="80%" alt="screenshot of homepage desktop">
+      <img src="assets/readme/screenshots/homepage/.png/" width="80%" alt="screenshot of homepage desktop">
       <br>
       <em>Homepage Desktop</em>
     </td>
@@ -203,7 +203,7 @@ Overall the AI trainers page reinforces the persoanlity driven and visual identi
 <table>
   <tr>
     <td align="center">
-      <img src="assets/readme/screenshots/trainer/desktop-trainer.png/" width="80%" alt="screenshot of trainer page desktop">
+      <img src="assets/readme/screenshots/TRAINER/desktop-trainer.png" width="80%" alt="screenshot of trainer page desktop">
       <br>
       <em>AI Trainers Desktop</em>
     </td>
@@ -516,3 +516,6 @@ Some visual assets were created or enhanced using AI tools:
 - Banner and additional character poses were generated or enhanced using Google Gemini using my assets.
 - AI video were generated with HeyGen using my assets. ("blaze-portrait.mp4" and "zaya-video.mp4")
 - All images were exported to WebP for performance and manually resized to improve performance.
+
+
+[def]: ssets/readme/screenshots/trainer/desktop-trainer.png
