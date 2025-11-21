@@ -172,6 +172,17 @@ Overall, the Waiting List Page provides a straightforward and user-friendly expe
 ## Responsive Design
 
 ## External Code Attribution
+A number of external resources were used in this project to implement layout structure and interactive behaviour:
+
+- **Bootstrap 5.3** was used for the responsive grid system, spacing, navigation bar and overall page layout.  
+  Source: https://getbootstrap.com
+
+- **Bootstrap JavaScript** provides the functionality for the mobile hamburger navigation toggle.
+
+- **CSS animation** utilised for fade-in effects were inspired by common examples on **MDN Web Docs**.  
+  Source: https://developer.mozilla.org
+
+
 
 ## Testing
 
