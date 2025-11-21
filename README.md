@@ -1,6 +1,11 @@
 <p align="center">
  <img src="assets/readme/read-me-banner.png" alt="GYMXP Read Me Banner" width="100%">
 </p>
+<p align="center">
+  <a href="https://bankaiogx.github.io/website/" target="_blank">
+    🔗 <strong>Click here to view the live GYMXP website</strong>
+  </a>
+</p>
 
 # GYMXP — Gamified Fitness
 ## Table of Contents
@@ -355,6 +360,6 @@ Some visual assets were created or enhanced using AI tools:
   ## Media & Asset Attribution
 
 -  Character artwork and GYMXP logo ("blaze,webp", "zaya.webp", "shadow.webp" and "gymxp.png" ) was designed and customised by myself (Arbaz Danyal Butt), then optimised manually using Photoshop.
-- Banner and additional character poses were generated or enhanced using Google Gemini.
+- Banner and additional character poses were generated or enhanced using Google Gemini using my assets.
 - AI video were generated with HeyGen using my assets. ("blaze-portrait.mp4" and "zaya-video.mp4")
 - All images were exported to WebP for performance and manually resized to improve performance.
