@@ -215,6 +215,7 @@ Overall the AI trainers page reinforces the persoanlity driven and visual identi
   </tr>
 </table>
 
+
 ### Waiting List Page
 
 TThe Waiting List Page is designed to provide users with a simple and accessible way to register their interest in the GYMXP concept ahead of launch. This page implements a clean and focused layout, with the form placed on the left and a supporting visual banner on the right. This structure is once again achieved through the use of the Bootstrap two-column grid, keeping the page visually balanced while ensuring the form remains the primary focus.
