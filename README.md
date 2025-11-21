@@ -255,14 +255,26 @@ During development, several issues were identified through manual testing, Light
 **Cause:**  Temporary GitHub outage caused failed authentication attempts.As a result, the project could no longer pull, push or fetch, and the remote repo became corrupted.
 **Fix:** After exhuasting all options including SSH keys and attempting to clone and force push, I created a new repoand repushed the full project. This restored version control and normal deployment behaviour however losing 130± commits (which are still viewable on the previous Git repo).
 
-
-
 ## Version Control
+Version control was used throughout the development of this project to make and manage changes, track progress and maintain an organisedworkflow. Git and Github were used together, with VS Code as the  development enviroment. This allowed me to cmmit regularly and push updates to the repository.
 
+I followed a simple but effective workflow by writing a feature or fix a bug, test it locally and then commit with a clear message describing descibing the change. This helped maintain and keep the project and keep the project organised as well as making it easier to revert or adjust specific changes when necassary. Changes and updates were commited regularly when necassary and were especially helpful when debugging, for example issues related to layout since i could easily review what caused a change in behaviour.
+
+Github pages were used for deployment, which meant the project was automatically hosted oline each time a change was pushed to the repo. This allowed for quick testing across different devices.
+
+during development of the project, I encountered a significant issue where the original repository became corrupted. the git folder stopped being recognised by VS Code and the repository was returning errors such as 503 and fatal: could not read from remote repository. The project could no longer pull, push or fetch from Github. After trying several solutions, including resetting remotes, attempting to clone via SSH and re-initialising Git however the only fix was to create a new Github repository and repush the project from scratch.
+
+Although this meant losing over 130 commits from the original repository the history is still viewable on the previous repo for reference. Development then continued as normal on the new repository with frequent and consistent commit messages thus restoring a stable workflow and ensuring version control was properly maintained for the remainder of the project.
+
+Version control played an important role in this project not only for tracking changes but also for debugging and recovering from unexpected issues, demonstrating a professional approach to managing a real development workflow.
 ## Deployment
+The deployment wasn handled by Github using Pages. Github provides a free static hosting and automatically updates the live site whenever chages were commited and pushed to the main repository. 
 
+To deploy the project, I first ensured the repository was public then went into Github settings - Pages and selected the main branch as the source. After this, the site generated and was hosted on the Github URL. Any further updates were done simply by committing and pushing changes to GitHub which automatically updated redeployment.
+
+Overall, GitHub Pages provided a straightforward means of deployment and made it easy to test the site on real devices throughout deployment. The final website is fully hosted by GitHub Pages and easily accessible.
 ## Future Improvements
 
 ## Screenshots
 
-## References
+## References 
