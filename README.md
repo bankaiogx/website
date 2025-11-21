@@ -233,6 +233,31 @@ A number of external resources were used in this project to implement layout str
 
 ## Testing
 
+The GYMXP website was tested throughout development using manual checks, Chrome DevTools for responsive behaviour and cross browser testing on Chrome, Safari and edge. Performance and accessibility were assessed using Lighthouse and code was validated through W3C's HTML and CSS validators. Any issues found were fixed and recorded in the Bugs and Fixes section, with the final results in the testing table blow:
+
+### Testing Table
+
+| Test No. | Test | Result |
+|---------|------|--------|
+| **1** | Navigation links (desktop & mobile) | Pass |
+| **2** | Mobile hamburger menu | Pass |
+| **3** | Hero video (desktop) | Pass |
+| **4** | Hero video (mobile) | Pass |
+| **5** | Features section responsiveness | Pass |
+| **6** | Avatar hover glow | Pass (Safari limatation) |
+| **7** | Waiting list form fields | Pass |
+| **8** | Submit button behaviour | Pass |
+| **9** | Images loading on GitHub Pages | Pass |
+| **10** | Videos loading on GitHub Pages | Pass |
+| **11** | HTML validation | Pass |
+| **12** | CSS validation | Pass |
+| **13** | Lighthouse audit (desktop) | Pass |
+| **14** | Lighthouse audit (mobile) | Pass |
+| **15** | Responsive layout (all pages) | Pass |
+| **16** | Safari browser rendering | Partial Pass |
+| **17** | Git repository operation | Pass |
+| **18** | Alt text on images | Pass |
+
 ## Bugs and Fixes
 During development, several issues were identified through manual testing, Lighthouse checks,responsive checks using Chrome DevTools and deployment troubleshooting. Below are the key bugs encountered and how each one was resolved. 
 
