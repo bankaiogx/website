@@ -144,6 +144,17 @@ The About page presents the concept of GYMXP in a way that is simple, visual and
 
 
 ### AI Trainers Page
+The AI Trainers Page is designed to introduce the three main AI virtual coaches of the GYMXP concept - Blaze, Zaya and Shadow. These three characters form the personality driven core of the concept and represent different training styles, visual identities and motivational tones. The page opens with a cinematic large banner featuring all three AI coaches together reinforcing the anime inspired brand identity as well as settting the undertone for the rest of the contents of the page.
+
+Each trainer is layed out in their own dedicated section through the use of a two column responsive Bootstrap grid. With the portrait image of each trainer being placed on one side whilst the short and descriptive text placed on the other, this aids to create a strong visual structure, ensuring users can clearly distinguish each character and gain a grasp of their unique roles within GYMXP. Consisten and clean spacing, readable typography and balanced image size, mirroring the other, avoid visual clutter and make the page easier to naturally scan for users.
+
+Fade-in animations were once again applied to introduce the entire page which kept it consistent to to use of the same animation in other pages. All images on this page uses WebP, which is an optimised image format to improve performance, which is important especially on this page as this contained larged visuals.
+
+The same concept from other pages were once again displayed in this page as the information has been kept short and focused yet informative, to avoid cognitive overload. Each trainer desciption displays only the essentials traits and their role within the system. this allows users to easily understand the prupose of the trainer system without being overwhelmed by unnecessary information.
+
+Accessibility was considered thoughout this page. all images including Alt text, colour contrast (white  on black) was the primary choice for text colour, and the heading structure is consistent. They layout collpases smoothly on mobile devices with content stacking on top of each other to ensure content remains clear and readable.
+
+Overall the AI trainers page reinforces the persoanlity driven and visual identity of GYMXP, presenting each AI trainer in a focused manner whilst preserving a well structured layout that is simple for users to follow.
 ### Waiting List Page
 
 ## Accessibility Features
