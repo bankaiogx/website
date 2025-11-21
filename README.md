@@ -156,7 +156,17 @@ Accessibility was considered thoughout this page. all images including Alt text,
 
 Overall the AI trainers page reinforces the persoanlity driven and visual identity of GYMXP, presenting each AI trainer in a focused manner whilst preserving a well structured layout that is simple for users to follow.
 ### Waiting List Page
+TThe Waiting List Page is designed to provide users with a simple and accessible way to register their interest in the GYMXP concept ahead of launch. This page implements a clean and focused layout, with the form placed on the left and a supporting visual banner on the right. This structure is once again achieved through the use of the Bootstrap two-column grid, keeping the page visually balanced while ensuring the form remains the primary focus.
 
+The form itself is intentionally kept minimal to avoid overwhelming the user. Only essential fields are included (Full Name and Email) to streamline the process and make it as easy to complete as possible. Clear labels, strong spacing and large input fields improve readability and ease of interaction for the user, especially on mobile devices. A large and high-contrast submit button supports accessibility and implements Fitts’s Law by making it easy to click or tap.
+
+The supporting image on the right reinforces the visual and brand identity of the GYMXP concept while providing additional personality without distracting from the form. On mobile, the layout collapses vertically, with the text and form appearing first followed by the image banner. This ensures the form — being the main focus — remains easy to complete on smaller screens and maintains usability across different devices.
+
+Subtle fade-in animations were once again applied to the form and the supporting visual to maintain consistency with the rest of the site. The banner visual on this page uses WebP, which is an optimised image format that improves performance.
+
+Accessibility was also implemented thoroughly on this page. All fields include labels, colour contrast remains high, and form controls are large enough to be used comfortably on mobile devices. The page also includes Alt text for supporting visuals and maintains a logical heading structure consistent with the rest of the site.
+
+Overall, the Waiting List Page provides a straightforward and user-friendly experience with a focus on clarity and accessibility, allowing interested users to register their interest without unnecessary complexity or clutter.
 ## Accessibility Features
 
 ## Responsive Design
