@@ -170,6 +170,17 @@ Overall, the Waiting List Page provides a straightforward and user-friendly expe
 ## Accessibility Features
 
 ## Responsive Design
+Responsive design was a core aspect within the design of the GYMXP website to make sure it works smoothly across desktop, mobile and tablet devices. the layout was made keeping mobile in mind as well as well ask desktop using Bootstrap's responsive grid system as well as a few other CSS media queries.
+
+Bootstrap's grid system (container, row, cold-md) was used across all masin sections such as the hero sections, the three features, the AI trainer layout and the waiting list form. On larger screens, such as desktop or large tablets, these are displayed in multiple columns for example the hero text on the left and the media/image on the right whilst on mobile they stack vertically. This maintained readibility without magnifying/pinch to zoom or horizontal scrolling.
+
+Classes such as im-fluid, w-100, text-center, text-md-start, mac-auto and spacing classes like mt-4, mb-5 and py-5 were often used to maintain consistent aligntment and spacing on different devices. Images automatically resize whilst keeping their proprortions and buttons also reposition to a centra position on smaller screens.
+
+CSS media enquiries were also used where Bootstrap wasn't sufficient enough. These were mainly added to fix mobile issues such as the hero video shifting too far to the right or spacing became too tight. after implementing thesde media enquiries in CSS, th hero sections becomes a single column with the text content appearing above the video to keep the flow of information readable and easy to follow.
+
+The navigation bar is fully responsive oo. On desktop the links are displayed on the right and the GYMXP logo, which also served as home button folowing best practice, on the far left. On mobile the navigation collapses into Bootstrap's hamburger menu. This ensured that the header is clean and spacing was suffucient enough as well to avoid a cluttered naviagtion bar. 
+
+Responsive behaviour was tested using Chrome Devtools device emulation as well as testing directly on my own multiple devices and browsers. This confirmed that text is readable, images scaled correctly and buttons were eay to find and tap and there is no horizontal scrolling on any page. 
 
 ## External Code Attribution
 A number of external resources were used in this project to implement layout structure and interactive behaviour:
