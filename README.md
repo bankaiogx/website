@@ -147,7 +147,7 @@ Accessibility was implemented in the design of the Home Page through the use of 
 <table>
   <tr>
     <td align="center">
-      <img src="assets/readme/screenshots/homepage/.png/" width="80%" alt="screenshot of homepage desktop">
+      <img src="assets/readme/screenshots/homepage.png/" width="80%" alt="screenshot of homepage desktop">
       <br>
       <em>Homepage Desktop</em>
     </td>
