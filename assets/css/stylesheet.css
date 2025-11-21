@@ -289,6 +289,12 @@ body {
         margin-left: 0; !important;
         max-width: 90%;
     }
+    .hero-text .btn {
+        margin-top: 40px; !important;
+    }
+    .hero-section::after {
+        height: 200px;
+    }
 }
 
 .trainer-banner-section {
