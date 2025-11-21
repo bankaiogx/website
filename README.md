@@ -132,6 +132,17 @@ The Home Page layout adopted the use of Bootstrap's responsive grid system, allo
 Accessibility was implemented in the design of the Home Page through the use of Alt text on images, ARIA labels on the navigation bar and the use of high contrast buttons that meet expected readability standards. Buttons use high contrast and large sizing to support both mouse and touch input.
 
 ### About Page
+The About page provides a clear explaination of the GYMXP concept using a simple and structured layout. The page opens with a bold header and a short description immediately introducing the the purpose of the app. Below this is an animated video of one of the AI trainers - Zaya and is placed centrally on the page. The design choice to include a video helps reinforce the brand identity and persoanlity driven concept of GYMXP whilst giving visitors a more of a dynamic and engaging means to understand key information.
+
+The layout utilisies Bootstrap's grid system to centre the video and text whilst maintain strong spacing in aim to avoid clutter. The decision to keep the page minimal was an intended choice to over cognotive overload and not distract the user from the key information within the video and supported text. Beneath the video, a short explanatory paragraph highlights the core aspects, such as XP progression, AI coaching and other features that the GYMXP concept has to offer.
+
+Fade-in animations are used subtly to introduce the video and text in order to keep it consistent with the Home Page.
+
+Accessibility was implemented with the use of Alt text for the video element, a readable colour contract (White on Black) and a logical heading structure  to support users with assisstive technologies. The video is muted by default to prevent unexpected audio playback which in turn supports best practise for accessibility and comfort.
+
+The About page presents the concept of GYMXP in a way that is simple, visual and easy to navigate whilst reinforcing the brand identity and character driven idealogy.
+
+
 ### AI Trainers Page
 ### Waiting List Page
 
