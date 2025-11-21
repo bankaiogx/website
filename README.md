@@ -147,12 +147,12 @@ Accessibility was implemented in the design of the Home Page through the use of 
 <table>
   <tr>
     <td align="center">
-      <img src="assets/readme/screenshots/homepage.png/" width="80%" alt="screenshot of homepage desktop">
+      <img src="assets/readme/screenshots/homepage-page/homepage.png/" width="80%" alt="screenshot of homepage desktop">
       <br>
       <em>Homepage Desktop</em>
     </td>
     <td align="center">
-      <img src="assets/readme/screenshots/homepage/home-mobile.png/" width="80%" alt="Screenshot of mobile view homepage">
+      <img src="assets/readme/screenshots/homepage-page/home-mobile.png/" width="80%" alt="Screenshot of mobile view homepage">
       <br>
       <em>Homepage Mobile</em>
     </td>
@@ -203,12 +203,12 @@ Overall the AI trainers page reinforces the persoanlity driven and visual identi
 <table>
   <tr>
     <td align="center">
-      <img src="assets/readme/screenshots/trainer/desktop-trainer.png" width="80%" alt="screenshot of trainer page desktop">
+      <img src="assets/readme/screenshots/ai-trainer/desktop-trainer.png" width="80%" alt="screenshot of trainer page desktop">
       <br>
       <em>AI Trainers Desktop</em>
     </td>
     <td align="center">
-      <img src="assets/readme/screenshots/trainer/mobile-trainer.png/" width="80%" alt="Screenshot of mobile view trainer page">
+      <img src="assets/readme/screenshots/ai-trainer/mobile-trainer.png/" width="80%" alt="Screenshot of mobile view trainer page">
       <br>
       <em>AI Trainers Mobile</em>
     </td>
