@@ -22,7 +22,6 @@
 - [Version Control](#version-control)
 - [Deployment](#deployment)
 - [Future Improvements](#future-improvements)
-- [Screenshots](#screenshots)
 - [References](#references)
 
 ---
@@ -145,6 +144,21 @@ The Home Page layout adopted the use of Bootstrap's responsive grid system, allo
 
 Accessibility was implemented in the design of the Home Page through the use of Alt text on images, ARIA labels on the navigation bar and the use of high contrast buttons that meet expected readability standards. Buttons use high contrast and large sizing to support both mouse and touch input.
 
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/readme/screenshots/homepage/homepage.png/" width="80%" alt="screenshot of homepage desktop">
+      <br>
+      <em>Homepage Desktop</em>
+    </td>
+    <td align="center">
+      <img src="assets/readme/screenshots/homepage/home-mobile.png/" width="80%" alt="Screenshot of mobile view homepage">
+      <br>
+      <em>Homepage Mobile</em>
+    </td>
+  </tr>
+</table>
+
 ### About Page
 
 The About page provides a clear explaination of the GYMXP concept using a simple and structured layout. The page opens with a bold header and a short description immediately introducing the the purpose of the app. Below this is an animated video of one of the AI trainers - Zaya and is placed centrally on the page. The design choice to include a video helps reinforce the brand identity and persoanlity driven concept of GYMXP whilst giving visitors a more of a dynamic and engaging means to understand key information.
@@ -157,6 +171,20 @@ Accessibility was implemented with the use of Alt text for the video element, a 
 
 The About page presents the concept of GYMXP in a way that is simple, visual and easy to navigate whilst reinforcing the brand identity and character driven idealogy.
 
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/readme/screenshots/about/desktop-about.png/" width="80%" alt="screenshot of about page desktop">
+      <br>
+      <em>About Desktop</em>
+    </td>
+    <td align="center">
+      <img src="assets/readme/screenshots/homepage/home-mobile.png/" width="80%" alt="Screenshot of mobile view about page">
+      <br>
+      <em>About Mobile</em>
+    </td>
+  </tr>
+</table>
 
 ### AI Trainers Page
 
@@ -171,6 +199,22 @@ The same concept from other pages were once again displayed in this page as the 
 Accessibility was considered thoughout this page. all images including Alt text, colour contrast (white  on black) was the primary choice for text colour, and the heading structure is consistent. They layout collpases smoothly on mobile devices with content stacking on top of each other to ensure content remains clear and readable.
 
 Overall the AI trainers page reinforces the persoanlity driven and visual identity of GYMXP, presenting each AI trainer in a focused manner whilst preserving a well structured layout that is simple for users to follow.
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/readme/screenshots/trainer/desktop-trainer.png/" width="80%" alt="screenshot of trainer page desktop">
+      <br>
+      <em>AI Trainers Desktop</em>
+    </td>
+    <td align="center">
+      <img src="assets/readme/screenshots/homepage/home-mobile.png/" width="80%" alt="Screenshot of mobile view trainer page">
+      <br>
+      <em>AI Trainers Mobile</em>
+    </td>
+  </tr>
+</table>
+
 ### Waiting List Page
 
 TThe Waiting List Page is designed to provide users with a simple and accessible way to register their interest in the GYMXP concept ahead of launch. This page implements a clean and focused layout, with the form placed on the left and a supporting visual banner on the right. This structure is once again achieved through the use of the Bootstrap two-column grid, keeping the page visually balanced while ensuring the form remains the primary focus.
@@ -184,6 +228,22 @@ Subtle fade-in animations were once again applied to the form and the supporting
 Accessibility was also implemented thoroughly on this page. All fields include labels, colour contrast remains high, and form controls are large enough to be used comfortably on mobile devices. The page also includes Alt text for supporting visuals and maintains a logical heading structure consistent with the rest of the site.
 
 Overall, the Waiting List Page provides a straightforward and user-friendly experience with a focus on clarity and accessibility, allowing interested users to register their interest without unnecessary complexity or clutter.
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/readme/screenshots/waiting/form-desktop.png/" width="80%" alt="screenshot of waiting list page desktop">
+      <br>
+      <em>Waiting List Desktop</em>
+    </td>
+    <td align="center">
+      <img src="assets/readme/screenshots/homepage/home-mobile.png/" width="80%" alt="Screenshot of mobile view waiting list page">
+      <br>
+      <em>Waiting List Mobile</em>
+    </td>
+  </tr>
+</table>
+
 
 ## Accessibility Features
 
@@ -261,6 +321,36 @@ The GYMXP website was tested throughout development using manual checks, Chrome 
 | **17** | Git repository operation | Pass |
 | **18** | Alt text on images | Pass |
 
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/readme/screenshots/lighthouse-home.png/" width="80%" alt="screenshot of lighthouse results for desktop">
+      <br>
+      <em>LightHouse Desktop</em>
+    </td>
+    <td align="center">
+      <img src="assets/readme/screenshots/lighthouse-mobile.png/" width="80%" alt="Screenshot of mlighthouse results for mobile">
+      <br>
+      <em>LightHouse Mobile</em>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/readme/screenshots/html-check.png/" width="80%" alt="screenshot of HTML validation">
+      <br>
+      <em>W3 HTML Validation</em>
+    </td>
+    <td align="center">
+      <img src="assets/readme/screenshots/csscheck.png/" width="80%" alt="Screenshot of CSS validation">
+      <br>
+      <em>W3C CSS Validation</em>
+    </td>
+  </tr>
+</table>
+
+
 ## Bugs and Fixes
 During development, several issues were identified through manual testing, Lighthouse checks,responsive checks using Chrome DevTools and deployment troubleshooting. Below are the key bugs encountered and how each one was resolved. 
 
@@ -332,6 +422,7 @@ during development of the project, I encountered a significant issue where the o
 Although this meant losing over 130 commits from the original repository the history is still viewable on the previous repo for reference. Development then continued as normal on the new repository with frequent and consistent commit messages thus restoring a stable workflow and ensuring version control was properly maintained for the remainder of the project.
 
 Version control played an important role in this project not only for tracking changes but also for debugging and recovering from unexpected issues, demonstrating a professional approach to managing a real development workflow.
+
 ## Deployment
 
 The deployment wasn handled by Github using Pages. Github provides a free static hosting and automatically updates the live site whenever chages were commited and pushed to the main repository. 
@@ -339,6 +430,7 @@ The deployment wasn handled by Github using Pages. Github provides a free static
 To deploy the project, I first ensured the repository was public then went into Github settings - Pages and selected the main branch as the source. After this, the site generated and was hosted on the Github URL. Any further updates were done simply by committing and pushing changes to GitHub which automatically updated redeployment.
 
 Overall, GitHub Pages provided a straightforward means of deployment and made it easy to test the site on real devices throughout deployment. The final website is fully hosted by GitHub Pages and easily accessible.
+
 ## Future Improvements
 
 There are several improvements that could be made to enhance the website and support the full GYMXP concept:
@@ -352,7 +444,6 @@ There are several improvements that could be made to enhance the website and sup
 **Use of Javascript** More advanced use of JS to implment more advanced fade features such as images fade in and out dependant on user scrolling up and down the pages.
 
 These improvements would enhance both usability and the overall experience, bringing the site closer to what a full pre-launch product website would deliver.
-## Screenshots
 
 ## References  
 
